@@ -25,3 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvathakur&show_icons=true&locale=en" alt="dhruvathakur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvathakur&" alt="dhruvathakur" /></p>
+
+![image](https://github.com/Dhruvathakur/Dhruvathakur/assets/147899498/22d6da2b-e6e1-4791-92ee-85a7ae2fef81)
+
