@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvathakur&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvathakur" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvathakur" alt="dhruvathakur" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvathakur&theme=matrix" alt="dhruvathakur" /></a> </p>
 
 - 🌱 I’m currently learning **wordpress react**
 
